@@ -1,13 +1,13 @@
 import { renderComponent, expect } from '../test_helper';
-import App from '../../src/components/app';
+import UserList from '../../src/components/user_list';
 
 // Use describe to group together tests
-describe('App', () => {
+xdescribe('UserList', () => {
     // Use 'it' to test a single attribute of a target
     it('shows the correct text', () => {
         // Create instance of App
-        const component = renderComponent(App);
+        const component = renderComponent(UserList);
         // Use 'expect' to make an 'assertion'
-        expect(component).to.contain('React simple starter');
+        expect(component).to.contain('User List');
     });
 });
