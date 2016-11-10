@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Example App
 
 ###Getting Started###
 
