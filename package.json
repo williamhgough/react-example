@@ -1,7 +1,7 @@
 {
-  "name": "advanced-redux",
+  "name": "react-example",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "A small React & Redux demo app for Ampersand Commerce DevX talk, \"Learning React & Redux\"",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dashboard -- node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",

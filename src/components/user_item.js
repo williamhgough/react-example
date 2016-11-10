@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+// Stateless functional component for User Item
 const UserItem = ({user}) => {
     return (
         <div className="col s4 m4 l4key={this.props.user.id}">
